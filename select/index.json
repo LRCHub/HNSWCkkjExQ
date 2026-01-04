@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "うみたがり",
+  "base_artist": "MARETU",
+  "createdAt": "2026-01-04T16:33:12.615734Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "うみたがり",
+      "artist": "MARETU",
+      "has_synced": true,
+      "path": "select/01_うみたがり_MARETU.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "うみたがり",
+      "artist": "MARETU",
+      "has_synced": true,
+      "path": "select/02_うみたがり_MARETU.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "うみたがり",
+      "artist": "maretu feat. 初音ミク",
+      "has_synced": true,
+      "path": "select/03_うみたがり_maretu_feat._初音ミク.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "うみたがり - Umitagari",
+      "artist": "MARETU",
+      "has_synced": true,
+      "path": "select/04_うみたがり_-_Umitagari_MARETU.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "うみたがり",
+      "artist": "MARETU",
+      "has_synced": false,
+      "path": "select/pl_01_うみたがり_MARETU.txt"
+    }
+  ]
+}
